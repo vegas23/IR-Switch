@@ -1,4 +1,4 @@
 irSwitcher
 ==========
 
-Send pre-programmed commands through IR port of receiver. 
+Send pre-programmed commands through IR port of receiver from Arduino Uno board.
