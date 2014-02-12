@@ -1,7 +1,7 @@
 /* INPUT CODES */
 
 // input 1: 807F807F
-int sigInputOne[] = { 
+unsigned int sigInputOne[68] = { 
 	-30432, 8850,
 	-4400, 600,
 	-1650, 550,
@@ -39,7 +39,7 @@ int sigInputOne[] = {
 };
 
 // input 2: 807F906F
-int sigInputTwo[] = {
+unsigned int sigInputTwo[68] = {
 	3296, 8950,
 	-4350, 650,
 	-1600, 550,
@@ -78,7 +78,7 @@ int sigInputTwo[] = {
 
 // input 3: 807F00FF
 
-int sigInputThree[] = {
+unsigned int sigInputThree[68] = {
 	-18590, 8900,
 	-4400, 600,
 	-1600, 600,
